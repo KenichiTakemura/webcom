@@ -1,2 +1,2 @@
 # webcom
-Web common component
+Web common component ruby gem for Web applications
